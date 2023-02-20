@@ -2,7 +2,7 @@
 Originally conceptualized as a plugin,
 however due to a lack of coding experience it is a datapack now.
 
-Score is how many zombies are spawned until the server tps is lower than 16
+Score is determined by how many zombies have been spawned until the server tps is lower than 16.
 
 Why 16? 
 
@@ -21,3 +21,5 @@ Leaderboard
 Redstone lag tests
 
 Players instead of entities
+
+More realistic "salad" of entities (adds more variability to testing but makes it more realistic)
