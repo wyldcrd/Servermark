@@ -11,3 +11,5 @@ It is considered the minimum playable enjoyable tps.
 Why didn't you use X mob?
 
 Because zombies are the first thing I thought of, however if you know how to change variables go ahead.
+
+Will add a first release tomorrow most likely
